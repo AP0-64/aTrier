@@ -1,0 +1,3 @@
+# Dépendances du projet
+# Ajouter les bibliothèques nécessaires ici, ex:
+# requests==2.31.0
